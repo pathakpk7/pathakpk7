@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript: React.js**
 
-- 👯 I’m currently working on **Fact Checker Bot**
+- 👯 I’m currently working on **SecureNet IDS**
 
 - 📫 How to reach me **prasoon7pathak@gmail.com**
 
