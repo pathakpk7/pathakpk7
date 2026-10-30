@@ -89,13 +89,7 @@
       <p>Modular browser-based multiplayer platform with real-time room matchmaking and multiple game modes.</p>
       <p><code>Flutter</code> • <code>FastAPI</code> • <code>WebSockets</code> • <code>Supabase</code></p>
       <p><a href="https://github.com/pathakpk7/PlayNed"><b>Explore Repository ↗</b></a></p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; padding: 18px; background-color: #0b0f19;">
-      <h3>🎓 TeachQL</h3>
-      <p>SQL practice and classroom assessment platform with isolated execution sandbox and automated grading.</p>
-      <p><code>Next.js</code> • <code>TypeScript</code> • <code>PostgreSQL</code> • <code>Supabase</code></p>
-      <p><a href="https://github.com/pathakpk7/TeachQL"><b>Explore Repository ↗</b></a></p>
-    </td>
+    
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 8px; padding: 18px; background-color: #0b0f19;">
