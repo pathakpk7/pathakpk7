@@ -162,52 +162,50 @@
 
 ### <span id="projects">🛸 Featured Engineering Projects</span>
 
-Each project represents an end-to-end technical vector, combining data modeling, reliable backends, and user-centric software design.
-
----
-
-#### 🛡️ 01 &middot; SecureNet IDS &mdash; AI Intrusion Detection System
-- **Domain:** Network Telemetry, Security & Applied Machine Learning
-- **Tech Stack:** `Python` &bull; `FastAPI` &bull; `React` &bull; `Supabase` &bull; `Machine Learning`
-- **Architecture Overview:** Real-time network monitoring and threat intelligence platform designed to ingest raw packet streams, analyze flow patterns, and detect malicious intrusions.
-- **Key Technical Contribution:** Built a high-throughput classification pipeline using Python and FastAPI that cross-references anomaly patterns against threat signatures with live incident logging to a Supabase backend and reactive UI.
-- **Project Access:** [💻 GitHub Repository](https://github.com/pathakpk7/SecureNet_IDS)
-
----
-
-#### 🕵️ 02 &middot; Project Vritra &mdash; Interactive SQL Detective Mystery
-- **Domain:** Game Systems, Relational Databases & Narrative Logic
-- **Tech Stack:** `React` &bull; `Node.js` &bull; `PostgreSQL` &bull; `Tailwind CSS`
-- **Architecture Overview:** Investigative detective thriller where murder mystery interrogation is powered directly by real SQL queries against a live case database.
-- **Key Technical Contribution:** Architected an isolated query execution bridge that validates user-submitted SQL against relational schemas, translating successful queries into unlocked forensic evidence, clues, and storyline progression.
-- **Project Access:** [💻 GitHub Repository](https://github.com/pathakpk7/Murder_Mystery_Game)
-
----
-
-#### 🎮 03 &middot; PlayNed &mdash; Modular Multiplayer Gaming Engine
-- **Domain:** Real-Time Distributed Systems & WebSockets
-- **Tech Stack:** `Flutter` &bull; `FastAPI` &bull; `WebSockets` &bull; `Supabase`
-- **Architecture Overview:** Cross-platform multiplayer gaming application with dynamic room matchmaking, synchronized live gameplay, and persistent player records.
-- **Key Technical Contribution:** Designed duplex WebSocket communication channels achieving sub-50ms synchronized state broadcast across concurrent game sessions, with session token validation and persistent leaderboard indexing.
-- **Project Access:** [💻 GitHub Repository](https://github.com/pathakpk7/PlayNed)
-
----
-
-#### 🎓 04 &middot; TeachQL &mdash; SQL Practice Sandbox & Automated Assessment Engine
-- **Domain:** EdTech, Sandboxed Code Execution & Query Parsing
-- **Tech Stack:** `Next.js` &bull; `TypeScript` &bull; `PostgreSQL` &bull; `Supabase`
-- **Architecture Overview:** Interactive SQL learning and classroom evaluation workbench featuring live database sandboxes, schema visualizations, and automated submission grading.
-- **Key Technical Contribution:** Engineered a secure sandbox execution runtime that evaluates student DDL and DML solutions against canonical test suites, offering instant execution diffs, execution timing, and diagnostic syntax guidance.
-- **Project Access:** [💻 GitHub Repository](https://github.com/pathakpk7/TeachQL)
-
----
-
-#### 🏏 05 &middot; Dhoni 7 &mdash; Interactive Cricket Data Warehouse & Storytelling
-- **Domain:** Sports Analytics, Data Warehousing & Visual Storytelling
-- **Tech Stack:** `Next.js` &bull; `React` &bull; `Tailwind CSS` &bull; `PostgreSQL`
-- **Architecture Overview:** Analytical deep dive decoding the career trajectory, chase acceleration dynamics, and situational impact metrics of MS Dhoni across formats.
-- **Key Technical Contribution:** Structured an indexed ball-by-ball relational data warehouse to aggregate match phases, calculate situational pressure indices, and render custom interactive visual narratives.
-- **Project Access:** [💻 GitHub Repository](https://github.com/pathakpk7/Dhoni_7)
+<table width="100%" style="border-collapse: separate; border-spacing: 12px;">
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3>🛡️ SecureNet IDS</h3>
+      <p>AI-powered intrusion detection platform with real-time packet telemetry and threat intelligence integration.</p>
+      <p><code>Python</code> &bull; <code>FastAPI</code> &bull; <code>React</code> &bull; <code>Supabase</code></p>
+      <p><a href="https://github.com/pathakpk7/SecureNet_IDS"><b>Explore Repository ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3>🕵️ Project Vritra</h3>
+      <p>Interactive detective mystery thriller where SQL queries interrogate a live database to uncover evidence.</p>
+      <p><code>React</code> &bull; <code>Node.js</code> &bull; <code>PostgreSQL</code> &bull; <code>Tailwind</code></p>
+      <p><a href="https://github.com/pathakpk7/Murder_Mystery_Game"><b>Explore Repository ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3>🎮 PlayNed</h3>
+      <p>Modular browser multiplayer gaming ecosystem with low-latency WebSocket synchronization and rooms.</p>
+      <p><code>Flutter</code> &bull; <code>FastAPI</code> &bull; <code>WebSockets</code> &bull; <code>Supabase</code></p>
+      <p><a href="https://github.com/pathakpk7/PlayNed"><b>Explore Repository ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3>🎓 TeachQL</h3>
+      <p>SQL practice and assessment platform with isolated execution sandbox, automated grading, and syntax diffs.</p>
+      <p><code>Next.js</code> &bull; <code>TypeScript</code> &bull; <code>PostgreSQL</code> &bull; <code>Supabase</code></p>
+      <p><a href="https://github.com/pathakpk7/TeachQL"><b>Explore Repository ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3>🏏 Dhoni 7</h3>
+      <p>Ball-by-ball cricket data warehouse modeling career trajectory and situational chase impact metrics.</p>
+      <p><code>Next.js</code> &bull; <code>React</code> &bull; <code>Tailwind</code> &bull; <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/pathakpk7/Dhoni_7"><b>Explore Repository ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
+      <h3>🍕 Food Order &amp; Delivery</h3>
+      <p>Full-stack food ordering platform featuring interactive menu browsing, cart state, and order dispatch.</p>
+      <p><code>JavaScript</code> &bull; <code>Node.js</code> &bull; <code>HTML5</code> &bull; <code>CSS3</code></p>
+      <p><a href="https://github.com/pathakpk7/Food-order-and-delivery"><b>Explore Repository ↗</b></a></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/pathakpk7?tab=repositories">
@@ -298,21 +296,29 @@ Each project represents an end-to-end technical vector, combining data modeling,
 ### <span id="analytics">📈 GitHub Analytics & Activity Stream</span>
 
 <div align="center">
-  <table border="0" style="border: none;">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=pathakpk7&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&icon_color=d29922&text_color=8b949e&border_color=30363d" alt="Prasoon's GitHub Stats" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pathakpk7&theme=dark&background=0d1117&border=30363d&stroke=d29922&ring=f0f6fc&fire=d29922&currStreakLabel=f0f6fc&sideLabels=8b949e&sideNums=f0f6fc" alt="Prasoon's GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathakpk7&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d" alt="Top Languages" width="60%" />
-      </td>
-    </tr>
-  </table>
+
+<!-- DAILY COMMITS GREEN MAP -->
+<p align="center">
+  <a href="https://github.com/pathakpk7">
+    <img src="https://ghchart.rshah.org/39d353/pathakpk7" alt="Prasoon's Daily Commits Green Map" width="100%" />
+  </a>
+</p>
+
+<table border="0" style="border: none; margin: 0 auto;">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-stats-extended.vercel.app/api?username=pathakpk7&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&icon_color=d29922&text_color=8b949e&border_color=30363d" alt="Prasoon's GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=pathakpk7&theme=dark&background=0d1117&border=30363d&stroke=d29922&ring=f0f6fc&fire=d29922&currStreakLabel=f0f6fc&sideLabels=8b949e&sideNums=f0f6fc" alt="Prasoon's GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pathakpk7&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d" alt="Top Languages" width="60%" />
+    </td>
+  </tr>
+</table>
   <p><sub><i>*Note: Analytics cards reflect public GitHub repository activity and commits, rendered dynamically via open APIs.</i></sub></p>
 </div>
 
