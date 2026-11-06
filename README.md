@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- COMMAND CENTER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=PRASOON%20PATHAK&fontSize=50&fontAlignY=44&fontColor=F0F6FC&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Data%20Systems%20%C2%B7%20Full-Stack&descAlignY=70&descSize=16&descColor=C9D1D9" width="100%" alt="Prasoon Pathak — Command Center Header" />
+<img src="assets/header.svg" width="100%" alt="PRASOON PATHAK // COMMAND CENTER" />
 
 <br/>
 
@@ -330,7 +330,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" alt="Footer" />
+<img src="assets/footer.svg" width="100%" alt="Divider" />
 
 <p align="center">
   <i>"Curiosity starts the project. Engineering makes it real."</i><br/>
