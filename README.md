@@ -39,7 +39,6 @@
 <p align="center">
   <code><a href="#about">About</a></code> &bull;
   <code><a href="#tech-stack">Tech Stack</a></code> &bull;
-  <code><a href="#projects">Projects</a></code> &bull;
   <code><a href="#experience">Experience</a></code> &bull;
   <code><a href="#education">Education</a></code> &bull;
   <code><a href="#analytics">Analytics</a></code> &bull;
@@ -62,11 +61,10 @@
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-- 🎓 **Engineering Evolution:** B.Tech in Computer Science & Engineering from **United Institute of Technology** (UIT, AKTU), backed by a foundational Diploma in **Mechanical Engineering** from **Chandauli Polytechnic**. This hybrid background blends mechanical discipline, physical systems thinking, and computational problem-solving.
-- ⚙️ **Production Systems & Full-Stack:** Architecting robust, event-driven web services and client applications using **FastAPI**, **Node.js**, **Express**, **Next.js**, **React**, **TypeScript**, and **Flutter**, coupled with high-efficiency relational database querying (**PostgreSQL**, **MySQL**, **Supabase**).
-- 🔬 **Applied Machine Learning & Data Engineering:** Developing applied intelligence pipelines&mdash;from neural intrusion detection engines (**SecureNet IDS**) and computer vision systems to statistical feature extraction with **Python**, **TensorFlow**, **OpenCV**, and **Scikit-Learn**.
-- 📊 **Telemetry & Analytics:** Hands-on experience driving exploratory analysis, data validation, and automated executive profitability dashboards during my data analytics internship at **InternAlpha**, plus domain-specific analytics data warehouses (**Dhoni 7**).
-- 💡 **Continuous Craft:** Documenting technical patterns, AI developments, and software architectures on my [technical blog](https://pathakpk7blog.vercel.app/) and systematically sharpening algorithmic and relational database query mastery on [LeetCode](https://leetcode.com/u/pathakMahi/).
+- 🎓 **Background:** Mechanical Engineering Diploma (Chandauli Poly) &rarr; B.Tech Computer Science at United Institute of Technology (AKTU).
+- ⚙️ **Systems & Backend:** Designing high-throughput, event-driven web services using FastAPI, Node.js, and PostgreSQL.
+- 🔬 **AI & Data:** Building applied ML pipelines, intrusion detection systems, and automated telemetry dashboards.
+- ✍️ **Writing & Code:** Writing technical reflections on my [blog](https://pathakpk7blog.vercel.app/) and solving challenges on [LeetCode](https://leetcode.com/u/pathakMahi/).
 
 ---
 
@@ -157,63 +155,6 @@
 
 </div>
 
-
----
-
-### <span id="projects">🛸 Featured Engineering Projects</span>
-
-<table width="100%" style="border-collapse: separate; border-spacing: 12px;">
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
-      <h3>🛡️ SecureNet IDS</h3>
-      <p>AI-powered intrusion detection platform with real-time packet telemetry and threat intelligence integration.</p>
-      <p><code>Python</code> &bull; <code>FastAPI</code> &bull; <code>React</code> &bull; <code>Supabase</code></p>
-      <p><a href="https://github.com/pathakpk7/SecureNet_IDS"><b>Explore Repository ↗</b></a></p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
-      <h3>🕵️ Project Vritra</h3>
-      <p>Interactive detective mystery thriller where SQL queries interrogate a live database to uncover evidence.</p>
-      <p><code>React</code> &bull; <code>Node.js</code> &bull; <code>PostgreSQL</code> &bull; <code>Tailwind</code></p>
-      <p><a href="https://github.com/pathakpk7/Murder_Mystery_Game"><b>Explore Repository ↗</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
-      <h3>🎮 PlayNed</h3>
-      <p>Modular browser multiplayer gaming ecosystem with low-latency WebSocket synchronization and rooms.</p>
-      <p><code>Flutter</code> &bull; <code>FastAPI</code> &bull; <code>WebSockets</code> &bull; <code>Supabase</code></p>
-      <p><a href="https://github.com/pathakpk7/PlayNed"><b>Explore Repository ↗</b></a></p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
-      <h3>🎓 TeachQL</h3>
-      <p>SQL practice and assessment platform with isolated execution sandbox, automated grading, and syntax diffs.</p>
-      <p><code>Next.js</code> &bull; <code>TypeScript</code> &bull; <code>PostgreSQL</code> &bull; <code>Supabase</code></p>
-      <p><a href="https://github.com/pathakpk7/TeachQL"><b>Explore Repository ↗</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
-      <h3>🏏 Dhoni 7</h3>
-      <p>Ball-by-ball cricket data warehouse modeling career trajectory and situational chase impact metrics.</p>
-      <p><code>Next.js</code> &bull; <code>React</code> &bull; <code>Tailwind</code> &bull; <code>PostgreSQL</code></p>
-      <p><a href="https://github.com/pathakpk7/Dhoni_7"><b>Explore Repository ↗</b></a></p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 18px; background-color: #0d1117;">
-      <h3>🍕 Food Order &amp; Delivery</h3>
-      <p>Full-stack food ordering platform featuring interactive menu browsing, cart state, and order dispatch.</p>
-      <p><code>JavaScript</code> &bull; <code>Node.js</code> &bull; <code>HTML5</code> &bull; <code>CSS3</code></p>
-      <p><a href="https://github.com/pathakpk7/Food-order-and-delivery"><b>Explore Repository ↗</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/pathakpk7?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Explore All Repositories" />
-  </a>
-</div>
-
-
 ---
 
 ### <span id="experience">💼 Professional Experience & Field Notes</span>
@@ -263,22 +204,17 @@
 
 ### <span id="side-quests">🧭 Side Quests & Creative Endeavors</span>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h4>🏏 Cricket &times; Data</h4>
       <p>Transforming complex match telemetry and ball-by-ball logs into compelling, interactive visual narratives.</p>
       <a href="https://github.com/pathakpk7/Dhoni_7"><b>Inspect Dhoni 7 &nearr;</b></a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h4>✍️ Writing &times; Ideas</h4>
       <p>Reflecting on systems architecture, machine learning patterns, emerging technology, and technical insights.</p>
       <a href="https://pathakpk7blog.vercel.app/" target="_blank"><b>Read Technical Blog &nearr;</b></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🧠 SQL &times; Problem Solving</h4>
-      <p>Sharpening query execution plans, complex joins, subqueries, and window functions on algorithmic platforms.</p>
-      <a href="https://leetcode.com/u/pathakMahi/" target="_blank"><b>View LeetCode Profile &nearr;</b></a>
     </td>
   </tr>
 </table>
@@ -289,16 +225,27 @@
 
 <div align="center">
 
-<!-- DAILY COMMITS GREEN MAP -->
+<!-- INTERACTIVE CONTRIBUTION SNAKE GAME (DARK MODE) -->
 <p align="center">
-  <a href="https://github.com/pathakpk7">
-    <img src="https://ghchart.rshah.org/39d353/pathakpk7" alt="Prasoon's Daily Commits Green Map" width="100%" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathakpk7/pathakpk7/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathakpk7/pathakpk7/output/github-snake.svg">
+    <img alt="Prasoon's Contribution Grid Snake Game" src="https://raw.githubusercontent.com/pathakpk7/pathakpk7/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </p>
 
-<!-- DYNAMIC ACTIVITY GRAPH -->
+<!-- DYNAMIC MONTHLY COMMIT ACTIVITY CURVE -->
 <p align="center">
   <img src="https://github-activity-chart.vercel.app/graph?username=pathakpk7&bg_color=0d1117&color=39d353&line=39d353&point=f0f6fc&area=true&hide_border=false&border_color=30363d" alt="Prasoon's Monthly Commit Activity Curve" width="100%" />
+</p>
+
+<!-- UNIQUE ENGINEERING METRICS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-450+-39d353?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Total Contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Longest_Streak-11_Days-FFA116?style=for-the-badge&logo=fire&logoColor=white&labelColor=161B22" alt="Longest Streak" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Actively_Building-238636?style=for-the-badge&logo=git&logoColor=white&labelColor=161B22" alt="Status" />
 </p>
 
 <table border="0" style="border: none; margin: 0 auto;">
