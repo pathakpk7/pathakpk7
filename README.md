@@ -221,9 +221,33 @@
 
 ---
 
-### <span id="analytics">📈 GitHub Analytics & Activity Stream</span>
+### <span id="analytics">📈 GitHub Analytics &amp; Systems Telemetry</span>
+
+```text
+┌── prasoon@command-center:~ ─────────────────────────────────────────────────────────┐
+│ OS: Linux / Windows 11 · x86_64                                                     │
+│ Host: Systems Engineering & Applied Intelligence Terminal                           │
+│ Uptime: 2+ Years in Production Software                                             │
+│ Shell: Python · C++ · TypeScript · SQL · Java                                       │
+│ Stacks: FastAPI · Node.js · Next.js · React · Flutter · PostgreSQL · Supabase       │
+│ Telemetry: 450+ Commits Broadcast · 170+ LeetCode Solved · 11-Day Burst Streak      │
+│ Memory: 250k+ Cricket Data Points Cached · Threat Signature Pipelines Active        │
+│ Status: Active & Crafting Resilient Systems [OK]                                    │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
+
+<!-- UNIQUE ENGINEERING METRICS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-450+-39d353?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Total Contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LeetCode_Problems-170_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=161B22" alt="LeetCode Solved" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Longest_Streak-11_Days-F05032?style=for-the-badge&logo=fire&logoColor=white&labelColor=161B22" alt="Longest Streak" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Actively_Building-238636?style=for-the-badge&logo=git&logoColor=white&labelColor=161B22" alt="Status" />
+</p>
 
 <!-- INTERACTIVE CONTRIBUTION SNAKE GAME (DARK MODE) -->
 <p align="center">
@@ -239,31 +263,36 @@
   <img src="https://github-activity-chart.vercel.app/graph?username=pathakpk7&bg_color=0d1117&color=39d353&line=39d353&point=f0f6fc&area=true&hide_border=false&border_color=30363d" alt="Prasoon's Monthly Commit Activity Curve" width="100%" />
 </p>
 
-<!-- UNIQUE ENGINEERING METRICS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-450+-39d353?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22" alt="Total Contributions" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Longest_Streak-11_Days-FFA116?style=for-the-badge&logo=fire&logoColor=white&labelColor=161B22" alt="Longest Streak" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Status-Actively_Building-238636?style=for-the-badge&logo=git&logoColor=white&labelColor=161B22" alt="Status" />
-</p>
-
-<table border="0" style="border: none; margin: 0 auto;">
+<!-- DUAL TELEMETRY: GITHUB & LEETCODE -->
+<table border="0" style="border: none; margin: 0 auto; width: 100%;">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" valign="top">
       <img src="https://github-stats-extended.vercel.app/api?username=pathakpk7&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&icon_color=d29922&text_color=8b949e&border_color=30363d" alt="Prasoon's GitHub Stats" width="100%" />
     </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=pathakpk7&theme=dark&background=0d1117&border=30363d&stroke=d29922&ring=f0f6fc&fire=d29922&currStreakLabel=f0f6fc&sideLabels=8b949e&sideNums=f0f6fc" alt="Prasoon's GitHub Streak" width="100%" />
+    <td align="center" width="50%" valign="top">
+      <a href="https://leetcode.com/u/pathakMahi/" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/pathakMahi?theme=dark&font=Fira%20Code&border=30363d&background=0d1117" alt="Prasoon's LeetCode Stats" width="100%" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pathakpk7&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d" alt="Top Languages" width="60%" />
+    <td align="center" width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=pathakpk7&theme=dark&background=0d1117&border=30363d&stroke=d29922&ring=f0f6fc&fire=d29922&currStreakLabel=f0f6fc&sideLabels=8b949e&sideNums=f0f6fc" alt="Prasoon's GitHub Streak" width="100%" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pathakpk7&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
-  <p><sub><i>*Note: Analytics cards reflect public GitHub repository activity and commits, rendered dynamically via open APIs.</i></sub></p>
+
+<!-- WAKATIME DEV-HOURS TELEMETRY -->
+<p align="center">
+  <a href="https://wakatime.com" target="_blank">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=pathakpk7&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d&layout=compact" alt="WakaTime Dev Hours" />
+  </a>
+</p>
+
+  <p><sub><i>*Note: Analytics cards reflect public GitHub repository activity, LeetCode performance, and commit telemetry rendered dynamically via open APIs.</i></sub></p>
 </div>
 
 
