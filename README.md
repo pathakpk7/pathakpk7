@@ -221,27 +221,21 @@
 <table width="100%">
   <thead>
     <tr bgcolor="#161B22">
-      <th width="35%" align="left"><font color="#F0F6FC"><b>Role & Organization</b></font></th>
+      <th width="35%" align="left"><font color="#F0F6FC"><b>Role &amp; Organization</b></font></th>
       <th width="20%" align="left"><font color="#F0F6FC"><b>Period</b></font></th>
-      <th width="45%" align="left"><font color="#F0F6FC"><b>Key Contributions & Impact</b></font></th>
+      <th width="45%" align="left"><font color="#F0F6FC"><b>Key Focus</b></font></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>Data Analytics Intern</b><br/><i>InternAlpha</i></td>
-      <td>2024</td>
-      <td>
-        &bull; Conducted data cleaning, validation, and exploratory data analysis (EDA) across commercial datasets.<br/>
-        &bull; Engineered sales, customer segment, and profitability dashboards with interactive trend visualizations to surface key revenue drivers.
-      </td>
+      <td>2026</td>
+      <td>Data cleaning, exploratory analysis (EDA), and sales &amp; profitability dashboards.</td>
     </tr>
     <tr>
       <td><b>Generative AI Virtual Intern</b><br/><i>IBM</i></td>
       <td>September 2025</td>
-      <td>
-        &bull; Investigated generative AI core architectures, foundational models, and prompt optimization.<br/>
-        &bull; Evaluated application design patterns, enterprise integration techniques, and ethical AI deployment principles.
-      </td>
+      <td>Foundation models, prompt engineering patterns, and generative AI deployment.</td>
     </tr>
   </tbody>
 </table>
@@ -250,19 +244,17 @@
 
 ### <span id="education">🏛️ Academic Foundations</span>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
       <h3>🏛️ Bachelor of Technology &mdash; CSE</h3>
       <p><b>United Institute of Technology (UIT)</b></p>
       <p>Affiliated with Dr. APJ Abdul Kalam Technical University (AKTU)</p>
-      <p>Focus: Data Structures, Database Systems, AI/ML, Operating Systems, Software Engineering</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
       <h3>⚙️ Diploma &mdash; Mechanical Engineering</h3>
       <p><b>Chandauli Polytechnic</b></p>
       <p>Affiliated with Board of Technical Education Uttar Pradesh (BTEUP)</p>
-      <p>Focus: Engineering Mechanics, Machine Design, Systems Analysis, Manufacturing Technology</p>
     </td>
   </tr>
 </table>
@@ -302,6 +294,11 @@
   <a href="https://github.com/pathakpk7">
     <img src="https://ghchart.rshah.org/39d353/pathakpk7" alt="Prasoon's Daily Commits Green Map" width="100%" />
   </a>
+</p>
+
+<!-- DYNAMIC ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-activity-chart.vercel.app/graph?username=pathakpk7&bg_color=0d1117&color=39d353&line=39d353&point=f0f6fc&area=true&hide_border=false&border_color=30363d" alt="Prasoon's Monthly Commit Activity Curve" width="100%" />
 </p>
 
 <table border="0" style="border: none; margin: 0 auto;">
