@@ -52,19 +52,16 @@
 
 ### <span id="about">🧬 About Me &mdash; System Architecture & Intelligence</span>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ 🧠 CORE IDENTITY: Software Engineer · AI & Data Systems · Full-Stack Dev    │
-│ 📍 LOCATION: India · United Institute of Technology (AKTU)                 │
-│ 🎯 FOCUS DOMAINS: Scalable Backends · Distributed Systems · Applied ML/Data │
-│ ⚙️ FOUNDATION: Mechanical Systems Discipline ➔ Computational Engineering    │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-- 🎓 **Background:** Mechanical Engineering Diploma (Chandauli Poly) &rarr; B.Tech Computer Science at United Institute of Technology (AKTU).
-- ⚙️ **Systems & Backend:** Designing high-throughput, event-driven web services using FastAPI, Node.js, and PostgreSQL.
-- 🔬 **AI & Data:** Building applied ML pipelines, intrusion detection systems, and automated telemetry dashboards.
-- ✍️ **Writing & Code:** Writing technical reflections on my [blog](https://pathakpk7blog.vercel.app/) and solving challenges on [LeetCode](https://leetcode.com/u/pathakMahi/).
+<table width="100%" style="border-collapse: separate; border-spacing: 0;">
+  <tr>
+    <td style="border: 1px solid #30363d; border-radius: 8px; padding: 18px 22px; background-color: #0d1117;">
+      <p style="margin: 4px 0; font-size: 14.5px;">🧠 <b>CORE IDENTITY:</b> Software Engineer &bull; AI &amp; Data Systems &bull; Full-Stack Dev</p>
+      <p style="margin: 4px 0; font-size: 14.5px;">📍 <b>LOCATION:</b> India &bull; United Institute of Technology (AKTU)</p>
+      <p style="margin: 4px 0; font-size: 14.5px;">🎯 <b>FOCUS DOMAINS:</b> Scalable Backends &bull; Distributed Systems &bull; Applied ML/Data</p>
+      <p style="margin: 4px 0; font-size: 14.5px;">⚙️ <b>FOUNDATION:</b> Mechanical Systems Discipline &rarr; Computational Engineering</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -202,39 +199,7 @@
 
 ---
 
-### <span id="side-quests">🧭 Side Quests & Creative Endeavors</span>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4>🏏 Cricket &times; Data</h4>
-      <p>Transforming complex match telemetry and ball-by-ball logs into compelling, interactive visual narratives.</p>
-      <a href="https://github.com/pathakpk7/Dhoni_7"><b>Inspect Dhoni 7 &nearr;</b></a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4>✍️ Writing &times; Ideas</h4>
-      <p>Reflecting on systems architecture, machine learning patterns, emerging technology, and technical insights.</p>
-      <a href="https://pathakpk7blog.vercel.app/" target="_blank"><b>Read Technical Blog &nearr;</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
 ### <span id="analytics">📈 GitHub Analytics &amp; Systems Telemetry</span>
-
-```text
-┌── prasoon@command-center:~ ─────────────────────────────────────────────────────────┐
-│ OS: Linux / Windows 11 · x86_64                                                     │
-│ Host: Systems Engineering & Applied Intelligence Terminal                           │
-│ Uptime: 2+ Years in Production Software                                             │
-│ Shell: Python · C++ · TypeScript · SQL · Java                                       │
-│ Stacks: FastAPI · Node.js · Next.js · React · Flutter · PostgreSQL · Supabase       │
-│ Telemetry: 450+ Commits Broadcast · 170+ LeetCode Solved · 11-Day Burst Streak      │
-│ Memory: 250k+ Cricket Data Points Cached · Threat Signature Pipelines Active        │
-│ Status: Active & Crafting Resilient Systems [OK]                                    │
-└─────────────────────────────────────────────────────────────────────────────────────┘
-```
 
 <div align="center">
 
@@ -263,11 +228,21 @@
   <img src="https://github-activity-chart.vercel.app/graph?username=pathakpk7&bg_color=0d1117&color=39d353&line=39d353&point=f0f6fc&area=true&hide_border=false&border_color=30363d" alt="Prasoon's Monthly Commit Activity Curve" width="100%" />
 </p>
 
-<!-- DUAL TELEMETRY: GITHUB & LEETCODE -->
+<!-- BALANCED UNIFORM ANALYTICS GRID -->
 <table border="0" style="border: none; margin: 0 auto; width: 100%;">
+  <!-- ROW 1: GITHUB CORE & STREAK (IDENTICAL 495x195 DIMENSIONS) -->
   <tr>
     <td align="center" width="50%" valign="top">
       <img src="https://github-stats-extended.vercel.app/api?username=pathakpk7&show_icons=true&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&icon_color=d29922&text_color=8b949e&border_color=30363d" alt="Prasoon's GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=pathakpk7&theme=dark&background=0d1117&border=30363d&stroke=d29922&ring=f0f6fc&fire=d29922&currStreakLabel=f0f6fc&sideLabels=8b949e&sideNums=f0f6fc" alt="Prasoon's GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <!-- ROW 2: TOP LANGUAGES & LEETCODE (UNIFORM ~500x200 RATIO) -->
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pathakpk7&layout=compact&card_width=495&langs_count=8&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d" alt="Top Languages by Volume" width="100%" />
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://leetcode.com/u/pathakMahi/" target="_blank">
@@ -275,22 +250,16 @@
       </a>
     </td>
   </tr>
+  <!-- ROW 3: REPOS BREAKDOWN & COMMIT DISTRIBUTION (IDENTICAL 340x200 DONUT CHARTS) -->
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=pathakpk7&theme=dark&background=0d1117&border=30363d&stroke=d29922&ring=f0f6fc&fire=d29922&currStreakLabel=f0f6fc&sideLabels=8b949e&sideNums=f0f6fc" alt="Prasoon's GitHub Streak" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pathakpk7&theme=github_dark" alt="Repos per Language" width="100%" />
     </td>
     <td align="center" width="50%" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pathakpk7&layout=compact&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d" alt="Top Languages" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pathakpk7&theme=github_dark" alt="Languages by Commit" width="100%" />
     </td>
   </tr>
 </table>
-
-<!-- WAKATIME DEV-HOURS TELEMETRY -->
-<p align="center">
-  <a href="https://wakatime.com" target="_blank">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=pathakpk7&theme=github_dark&hide_border=false&bg_color=0d1117&title_color=f0f6fc&text_color=8b949e&border_color=30363d&layout=compact" alt="WakaTime Dev Hours" />
-  </a>
-</p>
 
   <p><sub><i>*Note: Analytics cards reflect public GitHub repository activity, LeetCode performance, and commit telemetry rendered dynamically via open APIs.</i></sub></p>
 </div>
